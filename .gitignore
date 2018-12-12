@@ -1,6 +1,11 @@
-# node.js
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
 node_modules/
-npm-debug.log
-
-# lerna
-lerna-debug.log
+bin/
+obj/
+.vs/
